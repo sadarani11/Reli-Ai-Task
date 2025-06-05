@@ -1,5 +1,4 @@
-﻿# Weather App 🌦️
-# Weather App 🌦️  
+﻿# Weather App 🌦️  
 
 ## 📌 Technologies Used  
 - **React Native** (For mobile development)  
